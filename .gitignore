@@ -1,0 +1,5 @@
+*.exe
+.vscode
+.terraform
+part1_solution/stack.tf
+.DS_Store
