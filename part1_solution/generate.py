@@ -1,3 +1,7 @@
+"""
+Author: Christopher Stephen Sidell
+2017, LiveSafe HW Assignment
+"""
 from typing import Callable, List
 from abc import ABC
 import ipaddress

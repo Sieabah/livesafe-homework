@@ -1,3 +1,7 @@
+"""
+Author: Christopher Stephen Sidell
+2017, LiveSafe HW Assignment
+"""
 import os
 import sys
 import csv
